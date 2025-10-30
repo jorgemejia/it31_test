@@ -7,3 +7,7 @@ if(true){
     console.log('Condition is true');
 }
 
+if(false) {
+    console.log('Condition is false');
+}
+
